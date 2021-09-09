@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="36c4c913-cf5d-47c5-9229-8fdb246e03d6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/Argos_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/src/main/java/org/example/Browser_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/src/main/java/org/example/Load_Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Argos_Project/src/test/resources/TestData/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/BetWayGroup.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/BaseTest/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/BaseTest/Browser_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/BaseTest/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/BaseTest/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/PageObjectPages/FootBall_Match_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/PageObjectPages/Login_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/main/java/org/example/PageObjectPages/Search_Sports_Articles_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/resources/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/resources/search_spotrs_articles_names.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../BetWayGroup/src/test/resources/today_football_match_list.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/Collinson_Group_Vending_Machine_Program.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Collinson_Group_Vending_Machine_Program/src/main/java/org/example/Vending_Machine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTask/.idea/ElsevierTask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/Cassini_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/main/java/object_oriented_page/Login_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/main/java/org/example/Base_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/main/java/org/example/Home_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ElsevierTest/src/test/resources/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MittalKadiaNHSBAS/.idea/MittalKadiaNHSBAS.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/Mittal_Kadia_Android.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/main/java/org/example/BrowserSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/main/java/org/example/Load_Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_Android/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/Mittal_Kadia_NHSBSA.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Base_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Browser_Selector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Country_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Credit_Take_Home_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Date_Of_Birth_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Education_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Home_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Load_Property.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Paid_Universal_Credit_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Partner_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Result_Page_Age_Between_17To19.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Result_Page_Age_Between_19_To_99.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Result_Under_Age16_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Tax_Credits_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Universal_Credit_Claim_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/TestData/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/TestData/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/resources/features/walesTestTicketAgeBetween17 to 19.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/resources/features/walesTestTicketAgeBetween19 to 99.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mittal_Kadia_NHSBSA/src/test/resources/features/walesTestTicketAgeUnder16.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RahulSheety_Page_Object_Model/Practice_Project_PageObjectModel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/Rudra.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rudra/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/Saucedemo_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/org/example/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/org/example/LoadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/page/object/page/Checkout_Complete_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/page/object/page/Checkout_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/page/object/page/Personal_Information_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/page/object/page/Products_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/main/java/page/object/page/Shopping_Cart_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/test/TestData/config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/test/java/org/example/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/test/java/org/example/MyStepDefs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/test/java/org/example/RunTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Saucedemo_Project/src/test/resouces/Purchase.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scanner_With_If&amp;Else/Scanner_With_If&amp;Else.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Whitespace_Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Base_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/HomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/LoadProperty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Login_Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/Base_Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/config.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xqquft7N1S6DSa2fcXS2VWGacS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="TestNG.TestSuite.user_Should_Successfully_Sign_In">
+    <configuration name="TestSuite" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Whitespace_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestSuite.user_Should_Successfully_Sign_In" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Whitespace_Project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.example" />
+      <option name="MAIN_CLASS_NAME" value="org.example.TestSuite" />
+      <option name="METHOD_NAME" value="user_Should_Successfully_Sign_In" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.TestSuite.user_Should_Successfully_Sign_In" />
+        <item itemvalue="TestNG.TestSuite" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="36c4c913-cf5d-47c5-9229-8fdb246e03d6" name="Default Changelist" comment="" />
+      <created>1631093191387</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631093191387</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
